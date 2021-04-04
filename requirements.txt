@@ -260,7 +260,6 @@ pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
 pystan==2.19.1.1
 pytest==6.2.2
-python==3.7.2
 python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
 python-editor==1.0.4
 python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
